@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css",
+    "main.js": "/mahir_portfolio_react/static/js/main.c8622f12.chunk.js",
+    "main.js.map": "/mahir_portfolio_react/static/js/main.c8622f12.chunk.js.map",
+    "runtime-main.js": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js",
+    "runtime-main.js.map": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js.map",
+    "static/js/2.b8993e07.chunk.js": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js",
+    "static/js/2.b8993e07.chunk.js.map": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js.map",
+    "index.html": "/mahir_portfolio_react/index.html",
+    "precache-manifest.06497b8a7cbefb60d6aa6e48dd6c582b.js": "/mahir_portfolio_react/precache-manifest.06497b8a7cbefb60d6aa6e48dd6c582b.js",
+    "service-worker.js": "/mahir_portfolio_react/service-worker.js",
+    "static/css/main.bcf71792.chunk.css.map": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css.map",
+    "static/js/2.b8993e07.chunk.js.LICENSE.txt": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mahir_portfolio_react/static/media/mahirerden.1b60ef94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f95d4aa.js",
+    "static/js/2.b8993e07.chunk.js",
+    "static/css/main.bcf71792.chunk.css",
+    "static/js/main.c8622f12.chunk.js"
+  ]
+}
