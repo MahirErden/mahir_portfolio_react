@@ -12,6 +12,6 @@ This is a react portfolio application.
 
 #### Project Demo 
 
-![Alt Text](./public/img/portfolio.gif)
+![Alt Text](./src/img/portfolio.gif)
 
 #### Author: Mahir Erden
