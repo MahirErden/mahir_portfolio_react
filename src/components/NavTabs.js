@@ -13,22 +13,22 @@ function NavTabs() {
         <div className='collapse navbar-collapse text-center' id='collapsenavbar'>
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+              <Link to="/mahir_portfolio_react/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
                 Home
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+              <Link to="/mahir_portfolio_react/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
                 About Me
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+              <Link to="/mahir_portfolio_react/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
                 Portfolio
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+              <Link to="/mahir_portfolio_react/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
                 Contact
               </Link>
             </li>

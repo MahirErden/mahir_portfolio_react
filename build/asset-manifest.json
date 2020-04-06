@@ -1,23 +1,28 @@
 {
   "files": {
     "main.css": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css",
-    "main.js": "/mahir_portfolio_react/static/js/main.c8622f12.chunk.js",
-    "main.js.map": "/mahir_portfolio_react/static/js/main.c8622f12.chunk.js.map",
+    "main.js": "/mahir_portfolio_react/static/js/main.213dd9cf.chunk.js",
+    "main.js.map": "/mahir_portfolio_react/static/js/main.213dd9cf.chunk.js.map",
     "runtime-main.js": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js",
     "runtime-main.js.map": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js.map",
-    "static/js/2.b8993e07.chunk.js": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js",
-    "static/js/2.b8993e07.chunk.js.map": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js.map",
+    "static/js/2.59542c90.chunk.js": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js",
+    "static/js/2.59542c90.chunk.js.map": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js.map",
     "index.html": "/mahir_portfolio_react/index.html",
-    "precache-manifest.06497b8a7cbefb60d6aa6e48dd6c582b.js": "/mahir_portfolio_react/precache-manifest.06497b8a7cbefb60d6aa6e48dd6c582b.js",
+    "precache-manifest.913158de081c2e8c10831c9ffc70ad7a.js": "/mahir_portfolio_react/precache-manifest.913158de081c2e8c10831c9ffc70ad7a.js",
     "service-worker.js": "/mahir_portfolio_react/service-worker.js",
     "static/css/main.bcf71792.chunk.css.map": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css.map",
-    "static/js/2.b8993e07.chunk.js.LICENSE.txt": "/mahir_portfolio_react/static/js/2.b8993e07.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mahir_portfolio_react/static/media/mahirerden.1b60ef94.jpg"
+    "static/js/2.59542c90.chunk.js.LICENSE.txt": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mahir_portfolio_react/static/media/mahirerden.1b60ef94.jpg",
+    "static/media/CodeQuiz.gif": "/mahir_portfolio_react/static/media/CodeQuiz.8ac2a330.gif",
+    "static/media/Drinks.gif": "/mahir_portfolio_react/static/media/Drinks.cc64c084.gif",
+    "static/media/EatDaBurger.gif": "/mahir_portfolio_react/static/media/EatDaBurger.9b55c836.gif",
+    "static/media/WeatherDashboard.gif": "/mahir_portfolio_react/static/media/WeatherDashboard.70c7f334.gif",
+    "static/media/appdemo.gif": "/mahir_portfolio_react/static/media/appdemo.6c0d0b7e.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.1f95d4aa.js",
-    "static/js/2.b8993e07.chunk.js",
+    "static/js/2.59542c90.chunk.js",
     "static/css/main.bcf71792.chunk.css",
-    "static/js/main.c8622f12.chunk.js"
+    "static/js/main.213dd9cf.chunk.js"
   ]
 }

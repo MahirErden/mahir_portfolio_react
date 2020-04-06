@@ -1,4 +1,9 @@
 import React from "react";
+import project1 from "../../img/appdemo.gif";
+import project2 from "../../img/Drinks.gif";
+import project3 from "../../img/EatDaBurger.gif";
+import project4 from "../../img/CodeQuiz.gif";
+import project5 from "../../img/WeatherDashboard.gif";
 
 function Portfolio() {
   return (
@@ -9,8 +14,8 @@ function Portfolio() {
           <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
               <div className="card">
-                <a href="https://morning-hollows-80184.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="./img/appdemo.gif"
-                  className="img-fluid p-2" alt="Galleristic"/></a>
+                <a href="https://morning-hollows-80184.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                  <img src={project1} className="img-fluid p-2" alt="Galleristic"/></a>
                 <div className="card-body">
                   <h2 className="card-title">Galleristic</h2>
                   <p className="card-text">Where artists and art lovers meet</p>
@@ -21,8 +26,8 @@ function Portfolio() {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
               <div className="card">
-                <a href="https://mahirerden.github.io/DrinkUp/" target="_blank" rel="noopener noreferrer"><img src="./img/Drinks.gif"
-                  className="img-fluid p-2" alt="Drink Up" /></a>
+                <a href="https://mahirerden.github.io/DrinkUp/" target="_blank" rel="noopener noreferrer">
+                  <img src={project2} className="img-fluid p-2" alt="Drink Up" /></a>
                 <div className="card-body">
                   <h2 className="card-title">Drink Up</h2>
                   <p className="card-text">Alcoholic and Non-alcoholic drinks recipes</p>
@@ -35,8 +40,8 @@ function Portfolio() {
           <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
               <div className="card">
-                <a href="https://pure-beyond-13416.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="./img/EatDaBurger.gif"
-                  className="img-fluid p-2" alt="EatDaBurger" /></a>
+                <a href="https://pure-beyond-13416.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                  <img src={project3} className="img-fluid p-2" alt="EatDaBurger" /></a>
                 <div className="card-body">
                   <h2 className="card-title">Eat-Da-Burger</h2>
                   <p className="card-text">Node.js Express Handlebars application</p>
@@ -47,8 +52,8 @@ function Portfolio() {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
               <div className="card">
-                <a href="https://mahirerden.github.io/CodeQuiz/" target="_blank" rel="noopener noreferrer"><img src="./img/CodeQuiz.gif"
-                  className="img-fluid p-2" alt="Code Quiz" /></a>
+                <a href="https://mahirerden.github.io/CodeQuiz/" target="_blank" rel="noopener noreferrer">
+                  <img src={project4} className="img-fluid p-2" alt="Code Quiz" /></a>
                 <div className="card-body">
                   <h2 className="card-title">Code Quiz</h2>
                   <p className="card-text">Javascript code quiz application</p>
@@ -61,8 +66,8 @@ function Portfolio() {
             <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
               <div className="card">
-                <a href="https://mahirerden.github.io/WeatherDashboard/" target="_blank" rel="noopener noreferrer"><img src="./img/WeatherDashboard.gif"
-                  className="img-fluid p-2" alt="Weather Dashboard" /></a>
+                <a href="https://mahirerden.github.io/WeatherDashboard/" target="_blank" rel="noopener noreferrer">
+                  <img src={project5} className="img-fluid p-2" alt="Weather Dashboard" /></a>
                 <div className="card-body">
                   <h2 className="card-title">Weather Dashboard</h2>
                   <p className="card-text">Daily and 5-days weather forecast application</p>
