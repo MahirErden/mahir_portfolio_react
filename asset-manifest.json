@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css",
-    "main.js": "/mahir_portfolio_react/static/js/main.091739d7.chunk.js",
-    "main.js.map": "/mahir_portfolio_react/static/js/main.091739d7.chunk.js.map",
+    "main.js": "/mahir_portfolio_react/static/js/main.68679e1d.chunk.js",
+    "main.js.map": "/mahir_portfolio_react/static/js/main.68679e1d.chunk.js.map",
     "runtime-main.js": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js",
     "runtime-main.js.map": "/mahir_portfolio_react/static/js/runtime-main.1f95d4aa.js.map",
-    "static/js/2.59542c90.chunk.js": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js",
-    "static/js/2.59542c90.chunk.js.map": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js.map",
+    "static/js/2.e0a85b4a.chunk.js": "/mahir_portfolio_react/static/js/2.e0a85b4a.chunk.js",
+    "static/js/2.e0a85b4a.chunk.js.map": "/mahir_portfolio_react/static/js/2.e0a85b4a.chunk.js.map",
     "index.html": "/mahir_portfolio_react/index.html",
-    "precache-manifest.9d9d1941ea6f77a4c34faf73fad70422.js": "/mahir_portfolio_react/precache-manifest.9d9d1941ea6f77a4c34faf73fad70422.js",
+    "precache-manifest.1306d9d3bdf50fdf77901e7f9d80b063.js": "/mahir_portfolio_react/precache-manifest.1306d9d3bdf50fdf77901e7f9d80b063.js",
     "service-worker.js": "/mahir_portfolio_react/service-worker.js",
     "static/css/main.bcf71792.chunk.css.map": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css.map",
-    "static/js/2.59542c90.chunk.js.LICENSE.txt": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js.LICENSE.txt",
+    "static/js/2.e0a85b4a.chunk.js.LICENSE.txt": "/mahir_portfolio_react/static/js/2.e0a85b4a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mahir_portfolio_react/static/media/mahirerden.1b60ef94.jpg",
     "static/media/CodeQuiz.gif": "/mahir_portfolio_react/static/media/CodeQuiz.8ac2a330.gif",
     "static/media/Drinks.gif": "/mahir_portfolio_react/static/media/Drinks.cc64c084.gif",
     "static/media/EatDaBurger.gif": "/mahir_portfolio_react/static/media/EatDaBurger.9b55c836.gif",
     "static/media/WeatherDashboard.gif": "/mahir_portfolio_react/static/media/WeatherDashboard.70c7f334.gif",
-    "static/media/appdemo.gif": "/mahir_portfolio_react/static/media/appdemo.6c0d0b7e.gif"
+    "static/media/appdemo.gif": "/mahir_portfolio_react/static/media/appdemo.6c0d0b7e.gif",
+    "static/media/resume.pdf": "/mahir_portfolio_react/static/media/resume.664d1ae8.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.1f95d4aa.js",
-    "static/js/2.59542c90.chunk.js",
+    "static/js/2.e0a85b4a.chunk.js",
     "static/css/main.bcf71792.chunk.css",
-    "static/js/main.091739d7.chunk.js"
+    "static/js/main.68679e1d.chunk.js"
   ]
 }

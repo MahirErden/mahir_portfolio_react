@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "528ce462b0bd63fb50dd21d4c848472a",
+    "revision": "3059eb52d077923d3fe550edade69a2f",
     "url": "/mahir_portfolio_react/index.html"
   },
   {
-    "revision": "ee738177a41117c80c12",
+    "revision": "62fdc653c4f29364bd11",
     "url": "/mahir_portfolio_react/static/css/main.bcf71792.chunk.css"
   },
   {
-    "revision": "394d72e703cb8c1181ac",
-    "url": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js"
+    "revision": "5a3b90682cc00732b007",
+    "url": "/mahir_portfolio_react/static/js/2.e0a85b4a.chunk.js"
   },
   {
     "revision": "d0d6b5033fd77eb6038046252d67d3b7",
-    "url": "/mahir_portfolio_react/static/js/2.59542c90.chunk.js.LICENSE.txt"
+    "url": "/mahir_portfolio_react/static/js/2.e0a85b4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee738177a41117c80c12",
-    "url": "/mahir_portfolio_react/static/js/main.091739d7.chunk.js"
+    "revision": "62fdc653c4f29364bd11",
+    "url": "/mahir_portfolio_react/static/js/main.68679e1d.chunk.js"
   },
   {
     "revision": "011b5c873532a780352b",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1b60ef94457192848356b8491d926e18",
     "url": "/mahir_portfolio_react/static/media/mahirerden.1b60ef94.jpg"
+  },
+  {
+    "revision": "664d1ae88102a4bc90acfbded517009a",
+    "url": "/mahir_portfolio_react/static/media/resume.664d1ae8.pdf"
   }
 ]);
