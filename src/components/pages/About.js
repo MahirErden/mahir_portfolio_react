@@ -1,5 +1,6 @@
 import React from "react";
 import Typed from 'react-typed';
+import resume from "../../img/resume.pdf";
 
 function About() {
   return (
@@ -39,7 +40,7 @@ function About() {
                   href="https://www.linkedin.com/in/mahirerden" target="_blank" rel="noopener noreferrer">www.linkedin.com</a></p>
               </div>
             </div>
-            <a className="btn btn-dark text-uppercase mr-3" href="./resume/resume.pdf" download>View Resume<span> </span> <i
+            <a className="btn btn-dark text-uppercase mr-3" href={resume} download>View Resume<span> </span> <i
               className="fa fa-download" aria-hidden="true"></i></a>
           </div>
         </div>

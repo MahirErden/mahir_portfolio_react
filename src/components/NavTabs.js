@@ -7,7 +7,7 @@ function NavTabs() {
   return (
     <nav className='navbar navbar navbar-expand-lg bg-dark navbar-dark fixed-top'>
       <div className='container'>
-        <a href='' className='navbar-brand text-light font-weight-bold hName'>
+        <a href='#' className='navbar-brand text-light font-weight-bold hName'>
           Mahir Erden
          </a>
         <div className='collapse navbar-collapse text-center' id='collapsenavbar'>

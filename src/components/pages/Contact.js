@@ -1,10 +1,6 @@
 import React from "react";
 
 function Contact(props) {
-  
-  const clean = () => {
-    document.contact_form.reset();
-  }
 
   return (
     <div class="contact">
